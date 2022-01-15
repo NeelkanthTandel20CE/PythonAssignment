@@ -1,4 +1,4 @@
-# https://github.com/NeelkanthTandel20CE/PythonAssignment/edit/main/Practical2/dict.py
+# https://github.com/NeelkanthTandel20CE/PythonAssignment/blob/main/Practical2/dict.py
 # 20CE144-Neelkanth Tandel
 
 # ::dictionary::
