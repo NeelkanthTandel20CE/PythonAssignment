@@ -1,5 +1,5 @@
-# https://github.com/ChhabhaiyaDevanshi/python_pra2/blob/main/dict_practical2.py
-# 20CE011-CHHABHAIYA DEVANSHI
+# https://github.com/NeelkanthTandel20CE/PythonAssignment/edit/main/Practical2/dict.py
+# 20CE144-Neelkanth Tandel
 
 # ::dictionary::
 # d1 = {
