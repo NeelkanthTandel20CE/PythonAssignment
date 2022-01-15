@@ -1,5 +1,5 @@
-#https://github.com/ChhabhaiyaDevanshi/python_pra2/blob/main/set_practical2.py
-# 20CE011-CHHABHAIYA DEVANSHI
+#https://github.com/NeelkanthTandel20CE/PythonAssignment/blob/main/Practical2/set.py
+# 20CE144-Neelkanth Tandel
 
 # ::set::
 
