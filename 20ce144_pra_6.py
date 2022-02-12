@@ -1,4 +1,5 @@
 # 20CE144-Neelkanth Tandel
+# https://github.com/NeelkanthTandel20CE/PythonAssignment/blob/main/20ce144_pra_6.py
 
 # You are given n words. Some words may repeat. For each word, output its number of occurrences. The output order should correspond with the input order of appearance of the word. See the sample input/output for clarification.
 # Sample Input
